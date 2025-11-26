@@ -173,6 +173,3 @@ FEMOZ AI is a **research prototype** developed for educational and demonstration
 -----
 
 *Maintained by Wama*
-
-```
-```
